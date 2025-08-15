@@ -1,6 +1,6 @@
 *** Insurance Claim Prediction using CatBoost ***
 
-1) ## Objective:
+1) ## Objective
 The goal of this project was to predict insurance claims based on various features in the dataset. The project used CatBoost to handle categorical and continuous features efficiently without requiring manual label encoding or one-hot encoding. The main focus was on improving the prediction accuracy by transforming the target variable and utilizing advanced machine learning techniques.
 
 2) ##  Dataset:
